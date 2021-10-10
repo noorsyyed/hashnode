@@ -18,7 +18,9 @@ Even on mobile switching and adding a new workspace is seamless
 We have workarounds to tackle desktop Teams incompetency to handle multiple accounts.  And in this post, I'm going to discuss two such workarounds
 
 
-1. Install Teams site [https://teams.microsoft.com/](https://teams.microsoft.com/)  as an app in Microsoft Edge browser.
+
+> 
+Install Teams site [https://teams.microsoft.com/](https://teams.microsoft.com/)  as an app in Microsoft Edge browser.
 
 
 - Head over to above Teams site and login
@@ -35,10 +37,11 @@ We have workarounds to tackle desktop Teams incompetency to handle multiple acco
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1633806355389/wnpienRB4V.png)
 
-This gives you feasibility to open another Teams instance on desktop beside desktop version of Teams. And can opt to have browser notifications turned on for the Teams app site to stay on top of everything.
+This gives you feasibility to open another Teams instance on desktop beside desktop version of Teams. And can opt to have browser notifications turned on for the Teams app site to stay on top of everything
 
 
-2. Another way to have multiple instances of Teams running on windows, which is more a nerdy way is to install Linux GUI app on Windows Subsystem for Linux (WSL).  This is every fascinating and magical way to run Teams on windows. Process is as follows
+> 
+Another way to have multiple instances of Teams running on windows, which is more a nerdy way is to install Linux GUI app on Windows Subsystem for Linux (WSL).  This is every fascinating and magical way to run Teams on windows. Process is as follows
 
 For more details on WSL you can go [here](https://docs.microsoft.com/en-us/windows/wsl/about), explaining WSL is out of the scope of this post. But if anybody wants to a level down to understand it, they can get in touch with me I would love to explain. For now I'm just leaving Microsoft Docs like above and a very good article from [ Steve Pronovost](https://github.com/spronovo)  who works in the WSL team 
  [https://devblogs.microsoft.com/commandline/wslg-architecture/](https://github.com/microsoft/wslg) 
